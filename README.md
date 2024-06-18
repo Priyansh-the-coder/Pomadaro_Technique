@@ -6,3 +6,4 @@ Short overview of Pomadaro-
 3. Repeat 1. and 2. four times
 4. 30 min long break
 
+I have used tjinter module in this project-https://docs.python.org/3/library/tkinter.html
